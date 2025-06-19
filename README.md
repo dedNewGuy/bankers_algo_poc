@@ -2,7 +2,7 @@
 
 Resource allocation and deadlock avoidance
 
-# Key ideas
+## Key ideas
 
 | OS                | Banks             |
 |---------------    | ---------------   |
